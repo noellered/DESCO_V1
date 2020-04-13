@@ -115,6 +115,9 @@ ul {
     text-transform: uppercase;
 }
 
+main {
+  transition: margin-top 0.2s ease-in-out;
+}
 
 /* Media Queries */
 @media (min-width: 769px){
